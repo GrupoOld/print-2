@@ -1,0 +1,30 @@
+@charset "UTF-8";
+html {
+    background-color: gray;
+}
+
+body {
+    max-width: 980px;
+    margin: auto;
+}
+
+header, footer {
+    background-color: azure;        
+}
+
+article {
+    margin: auto;
+}
+
+header h1{    
+    font-size: 4rem;
+    color: blueviolet;    
+}
+
+article {
+    background-color: aliceblue;
+}
+
+article p {
+    padding: 0rem 0.5rem;
+}
