@@ -50,7 +50,6 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                         adipisci cumque illum? Deleniti, provident? Ex, consequuntur eos? Tempore fuga ea ipsum iste
                         accusantium placeat cum possimus aperiam.</p>
                     <img src="https://placekitten.com/405/200" class="img-fluid" alt="Logotipo da empresa de nome Gold">
-
                 </div>
             </div>
         </div>
