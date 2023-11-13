@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Menu Principal</title>
 </head>
 <body>
 <header>
@@ -11,7 +11,7 @@
             <menu class="navbar navbar-expand-lg" style="background-color: azure;">
                 <div class="container-fluid">
                     <a class="navbar-brand" href="#">
-                        <img src="images/Logo Grupo OLD 50x50.png" alt="Logo GOLD" width="50" height="50">
+                        <img src="images/logo_cffa.png" alt="Logotipo das Criaturas Fofas e Fedorentas do Abismo" width="50" height="50">
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
@@ -40,10 +40,10 @@
                                     Turismo
                                 </a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="#">Pontos Turísticos</a></li>
-                                    <li><a class="dropdown-item" href="#">Roteiro do Vinho</a></li>
-                                    <li><a class="dropdown-item" href="#">Castelo de São Roque</a></li>
-                                    <li><a class="dropdown-item" href="#">Catarina Outlet</a></li>
+                                    <li><a class="dropdown-item" href="../print-2/paginas/pontosturisticos.php">Pontos Turísticos</a></li>
+                                    <li><a class="dropdown-item" href="../print-2/paginas/roteirodovinho.php">Roteiro do Vinho</a></li>
+                                    <li><a class="dropdown-item" href="../print-2/paginas/castelo.php">Castelo de São Roque</a></li>
+                                    <li><a class="dropdown-item" href="../print-2/paginas/catarina.php">Catarina Outlet</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item">
