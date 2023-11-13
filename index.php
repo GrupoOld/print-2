@@ -28,12 +28,8 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
         <div class="container">
             <div class="row">
                 <div class="col-sm-12 col-md-6 col-lg-6">
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cumque sed ut perspiciatis beatae iure
-                        architecto praesentium deserunt optio? Repellat laborum incidunt est similique animi
-                        reprehenderit earum, architecto nobis eos recusandae!</p>
-                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate rerum labore repellendus rem
-                        asperiores cum quisquam, dolorem culpa debitis a quis vero, odio, ullam error quae. Officia modi
-                        excepturi doloribus.</p>
+                    <p>No final do século XVII, a cidade de São Roque foi estabelecida por Pedro Vaz de Barros, mais conhecido como Vaz-Guaçu, em virtude de sua devoção a São Roque. Ele se mudou para a região com sua família e cerca de 1.200 índios, às margens dos ribeirões Carambeí e Aracaí, começando a cultivar trigo e uva. A cidade se originou de uma vasta fazenda e uma capela dedicada a São Roque, situada onde hoje está a Praça da Matriz.</p>
+                    <p>A princípio, a fazenda trabalhava com mão-de-obra indígena e, mais tarde, escravos negros para cultivar vinhas e campos de trigo. Posteriormente, os imigrantes italianos e portugueses plantaram vinhedos nas encostas das colinas e tornaram São Roque a famosa "Terra do Vinho".</p>
                     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque, sint repudiandae modi sed ipsum
                         esse, officiis temporibus incidunt molestias impedit sit ea labore, excepturi similique debitis
                         aliquam autem repellat adipisci.</p>
