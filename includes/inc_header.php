@@ -11,7 +11,7 @@
             <menu class="navbar navbar-expand-lg" style="background-color: azure;">
                 <div class="container-fluid">
                     <a class="navbar-brand" href="#">
-                        <img src="images/logo_cffa.png" alt="Logotipo das Criaturas Fofas e Fedorentas do Abismo" width="50" height="50">
+                        <img src="../images/logo_cffa2.svg" alt="Logotipo das Criaturas Fofas e Fedorentas do Abismo" width="100" height="100">
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
@@ -29,9 +29,9 @@
                                     História
                                 </a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="#">História Geral</a></li>
-                                    <li><a class="dropdown-item" href="#">Capela Santo Antônio</a></li>
-                                    <li><a class="dropdown-item" href="#">Brasital</a></li>
+                                    <li><a class="dropdown-item" href="../paginas/historia_geral.php">História Geral</a></li>
+                                    <li><a class="dropdown-item" href="../paginas/capela.php">Capela Santo Antônio</a></li>
+                                    <li><a class="dropdown-item" href="../paginas/brasital.php">Brasital</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item dropdown">
