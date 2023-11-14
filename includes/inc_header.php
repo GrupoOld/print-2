@@ -11,7 +11,7 @@
             <menu class="navbar navbar-expand-lg" style="background-color: azure;">
                 <div class="container-fluid">
                     <a class="navbar-brand" href="#">
-                        <img src="../images/logo_cffa2.svg" alt="Logotipo das Criaturas Fofas e Fedorentas do Abismo" width="100" height="100">
+                        <img src="../images/logo_cffa2.svg" alt="Logotipo das Criaturas Fofas e Fedorentas do Abismo" width="100" height="50">
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
@@ -40,10 +40,10 @@
                                     Turismo
                                 </a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="../print-2/paginas/pontosturisticos.php">Pontos Turísticos</a></li>
-                                    <li><a class="dropdown-item" href="../print-2/paginas/roteirodovinho.php">Roteiro do Vinho</a></li>
-                                    <li><a class="dropdown-item" href="../print-2/paginas/castelo.php">Castelo de São Roque</a></li>
-                                    <li><a class="dropdown-item" href="../print-2/paginas/catarina.php">Catarina Outlet</a></li>
+                                    <li><a class="dropdown-item" href="../paginas/pontosturisticos.php">Pontos Turísticos</a></li>
+                                    <li><a class="dropdown-item" href="../paginas/roteirodovinho.php">Roteiro do Vinho</a></li>
+                                    <li><a class="dropdown-item" href="../paginas/castelo.php">Castelo de São Roque</a></li>
+                                    <li><a class="dropdown-item" href="../paginas/catarina.php">Catarina Outlet</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item">
@@ -67,10 +67,10 @@
                                     Cultura e Lazer
                                 </a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="#">Home - Cultura e Lazer</a></li>
-                                    <li><a class="dropdown-item" href="#">Cultura</a></li>
-                                    <li><a class="dropdown-item" href="#">Lazer</a></li>
-                                    <li><a class="dropdown-item" href="#">Agenda</a></li>
+                                    <li><a class="dropdown-item" href="../paginas/culturaelazer.php">Home - Cultura e Lazer</a></li>
+                                    <li><a class="dropdown-item" href="../paginas/cultura.php">Cultura</a></li>
+                                    <li><a class="dropdown-item" href="../paginas/lazer.php">Lazer</a></li>
+                                    <li><a class="dropdown-item" href="../paginas/agenda.php">Agenda</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item">
