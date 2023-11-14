@@ -16,6 +16,9 @@ article {
     margin: auto;
 }
 
+a{text-decoration: none;}
+
+
 header h1{    
     font-size: 4rem;
     color: blueviolet;    
@@ -32,14 +35,22 @@ article p {
 .h3-historia{
     background-color: #261526;
     color: antiquewhite;
-    margin-top: 10px;
+    margin-top: 15px;
     margin-left: 240px;
     width: 50%;
 }
 
+.left-historia{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+.align{margin-top: 50px;}
+.article-historia{margin-top: 20px;}
+.top-historia{margin-top: 30px;}
 figcaption{
     background-color: #261526;
     color: antiquewhite;
-    width: 68%;
-    text-align: center;
+    width: 70%;
+    margin-left: 44px; 
 }
+
