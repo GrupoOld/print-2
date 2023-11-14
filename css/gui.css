@@ -29,3 +29,17 @@ article p {
     padding: 0rem 0.5rem;
 }
 
+.h3-historia{
+    background-color: #261526;
+    color: antiquewhite;
+    margin-top: 10px;
+    margin-left: 240px;
+    width: 50%;
+}
+
+figcaption{
+    background-color: #261526;
+    color: antiquewhite;
+    width: 68%;
+    text-align: center;
+}
