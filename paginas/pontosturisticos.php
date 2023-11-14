@@ -7,13 +7,13 @@
     <title>Menu no Bootstrap</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-
 T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-    <link rel="stylesheet" href="css/meu.css">
+    <link rel="stylesheet" href="../css/meu.css">
 </head>
 
 <body>
-    <?php include 'includes/inc_header.php'; ?>
-    
-    <article>
+    <?php include_once '../includes/inc_header.php'; ?>
+    <?php include_once '../includes/inc_headerluc.php'; ?>
+     <article>
         <div class="container text-center">
             <div class="row-fluid">
                 <div class="col-sm-12 col-md-12 col-lg-12">
@@ -24,7 +24,7 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
         </div>
         <div class="container text-center">
             <div class="col-sm-12 col-md-12 col-lg-12"></div>
-            <h3><br>PONTOS TURISTICOS</h3><br>
+            <h3 class=titulo-lucia><br>PONTOS TURISTICOS</h3><br>
         </div>
         <div class="container">
             <div class="row">
