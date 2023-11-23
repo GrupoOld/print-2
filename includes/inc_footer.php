@@ -41,7 +41,7 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
 
 
             <div class="col-3 logof">
-                <a class="navbar-brand" href="C:\xampp\htdocs\print-2\index.php">
+                <a class="navbar-brand" href="../paginas/index.php">
                     <img src="../images/logo_cffa2.svg" alt="Logo GOLD" width="100" height="100">
                 </a>
             </div>
