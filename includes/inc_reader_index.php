@@ -11,7 +11,7 @@
             <menu class="navbar navbar-expand-lg" style="background-color: azure;">
                 <div class="container-fluid">
                     <a class="navbar-brand" href="#">
-                        <img src="../images/logo_cffa2.svg" alt="Logotipo das Criaturas Fofas e Fedorentas do Abismo" width="100" height="100">
+                        <img src="images/logo_cffa2.svg" alt="Logotipo das Criaturas Fofas e Fedorentas do Abismo" width="100" height="100">
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                         data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
@@ -21,7 +21,7 @@
                     <div class="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                             <li class="nav-item">
-                                <a class="nav-link active" aria-current="page" href="../index.php">Home</a>
+                                <a class="nav-link active" aria-current="page" href="index.php">Home</a>
                             </li>
                             <li class="nav-item dropdown">
                                 <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
