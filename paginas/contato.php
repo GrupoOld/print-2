@@ -12,49 +12,48 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
 
 <body>
     <?php include_once '../includes/inc_header.php'; ?>
+        <div class = "container">
         <div class = "row">
             <div class="col-md-12 col-lg-12">
                 <article>
                     <h3>FALE CONOSCO</h3>
                     <p>Preencha o formulário abaixo e nossa equipe entrará em contato com você.</p>
                         <p>*Campos de preenchimento obrigatório<p>
+                </article>
                     <form action="#" method="post">
-                        <label for="nome">Nome*:</label>
-                            <input type="text" id="nome" name="nome" required>
+                        <label for="nome">Nome Completo*:</label><br>
+                            <input type="text" id="nome" name="nome"  class = "form-nome" required>
 
                             <br>
                             <br>
 
                         <label for="email">E-mail*:</label>
-                            <input type="email" id="email" name="email" required>
-
-                        <label for="telefone">Telefone*:</label>
-                            <input type="tel" id="telefone" name="telefone">
+                        <label class = "text-telefone" for="telefone">Telefone*:</label><br>
+                        
+                            <input type="email" id="email" name="email" class = "form-email" required >
+                            <input type="tel" id="telefone" name="telefone" class = "form-telefone" required >
+                        
+                            
 
                             <br>
                             <br>
 
                         <label for="cpf">CPF*:</label>
-                            <input type="text" id="cpf" name="cpf" required>
-
-                        <label for="data_nascimento">Data de Nascimento*:</label>
-                            <input type="date" id="data_nascimento" name="data_nascimento" required>
+                        <label class = "text-data" for="data_nascimento">Data de Nascimento*:</label><br>
+                            <input type="text" id="cpf" name="cpf" class = "form-email" required >
+                            <input type="date" id="data_nascimento" name="data_nascimento" class = "form-telefone" required>
 
                             <br>
-                            <br>
 
-                        <label for="assunto">Assunto:</label>
-                            <textarea id="assunto" name="assunto" rows="4" required></textarea>
+                        <label for="assunto">Assunto:</label><br>
+                            <textarea id="assunto" name="assunto" rows="10" class = "text-area" required></textarea>
 
                         <input type="submit" value="Enviar">
                     </form>
-                    </div>
-                </article>
+                </div>
             </div>
         </div>
-        <footer class="text-center">
-        <br><small>Copystart Joel Teixeira Junior - RA: 2650832313001 - Todos os Direitos estão Reservados.</small>
-    </footer>
+        <?php include_once '../includes/inc_footer.php'; ?>
 </body>
 
 </html>
