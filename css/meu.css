@@ -11,7 +11,7 @@ body {
 header, footer {
     background-color: azure;        
 }
-
+a{text-decoration: none;}
 article {
     margin: auto;
 }
@@ -28,3 +28,9 @@ article {
 article p {
     padding: 0rem 0.5rem;
 }
+
+.form-nome{width: 75%;}
+.text-telefone{margin-left: 181px;}
+.form-email{width: 25%;}
+.form-telefone{width: 50%;}
+.text-area{width: 75%;}
