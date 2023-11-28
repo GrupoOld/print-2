@@ -13,23 +13,24 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
 <body>
     <?php include_once '../includes/inc_header.php'; ?>
     <article>
+    <div class="container">
         <div class="container text-center">
             <div class="col-sm-12 col-md-12 col-lg-12"></div>
             <h3 class= "h3-historia">HISTÓRIA GERAL</h3>
-        </div>
+            </div>
         
-        <div class="container">
             <div class="row">
                 
                 <div class="col-sm-12 col-md-6 col-lg-6">
                     <section class = "left-historia">
-                        <img src="https://placekitten.com/385/303" class="img-fluid" alt="Logotipo da empresa de nome Gold">
+                        <img src="https://placekitten.com/395/230" class="img-fluid" alt="Logotipo da empresa de nome Gold">
                     </section>
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-6">
                     <section class = "align">
                         <p>No final do século XVII, a cidade de São Roque foi estabelecida por Pedro Vaz de Barros, mais conhecido como Vaz-Guaçu, em virtude de sua devoção a São Roque. Ele se mudou para a região com sua família e cerca de 1.200 índios, às margens dos ribeirões Carambeí e Aracaí, começando a cultivar trigo e uva. A cidade se originou de uma vasta fazenda e uma capela dedicada a São Roque, situada onde hoje está a Praça da Matriz.</p>
                     </section>
+                    </div>
                     </div>
                     <div class="col-sm-12 col-md-12 col-lg-12">
                     <article class = "article-historia"> 
@@ -44,7 +45,6 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                     <p>Em 1764, o local foi designado como freguesia de Santana de Parnaíba antes de se tornar uma vila própria. Somente em 1864 São Roque foi declarado um município. Entre 1872 e 1875, ocorreram eventos significativos na cidade. Entre eles estavam a inauguração da Santa Casa de Misericórdia e a construção da estação da Estrada de Ferro Sorocabana. A chegada de imigrantes italianos no final do século XIX impulsionou a economia da área e impulsionou o crescimento de São Roque.</p>
                     <p>O I Cartório de Protesto de Notas e Títulos foi fundado em São Roque em 1834. O fórum judicial foi criado com dois ofícios judiciais em 1873, e o 1° Cartório de Registro de Imóveis foi estabelecido na cidade em 1874. O Primeiro Ofício do Registro Civil das Pessoas Naturais foi inaugurado em 1889, e o 2° Cartório de Protesto de Notas e Títulos começou a funcionar na área em 1893.</p>
                 </article>
-                </div>
                 </div>
                 <div class="row">
                 <div class="col-md-6 col-lg-6">
@@ -67,7 +67,7 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                     <div class="col-md-4 col-lg-4">
                     <section class = top-historia>
                         <figure>
-                        <img src="https://placekitten.com/206/200" class="img-fluid" alt="Logotipo da empresa de nome Gold">
+                        <img src="https://placekitten.com/300/200" class="img-fluid" alt="Logotipo da empresa de nome Gold">
                         <a href="../paginas/capela.php"><figcaption>Capela de St. Antônio</figcaption></a>
                         </figure>
                     </div>
@@ -75,7 +75,7 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                 <div class="col-md-4 col-lg-4">
                     <section class = top-historia>
                     <figure>
-                        <img src="https://placekitten.com/206/200" class="img-fluid" alt="Logotipo da empresa de nome Gold">
+                        <img src="https://placekitten.com/300/200" class="img-fluid" alt="Logotipo da empresa de nome Gold">
                         <a href="../paginas/historia_geral.php"><figcaption>História Geral</figcaption></a>
                         </figure>
                     </section>
@@ -83,7 +83,7 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                     <div class="col-md-4 col-lg-4">
                     <section class = top-historia>
                     <figure>
-                        <img src="https://placekitten.com/206/200" class="img-fluid" alt="Logotipo da empresa de nome Gold">
+                        <img src="https://placekitten.com/300/200" class="img-fluid" alt="Logotipo da empresa de nome Gold">
                         <a href="../paginas/brasital.php"><figcaption>BRASITAL</figcaption></a>
                         </figure>
                 </section>
