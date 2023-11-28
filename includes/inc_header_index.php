@@ -10,7 +10,7 @@
         <div class="container text-center">
             <menu class="navbar navbar-expand-lg" style="background-color: azure;">
                 <div class="container-fluid">
-                    <a class="navbar-brand" href="#">
+                    <a class="navbar-brand" href="index.php">
                         <img src="images/logo_cffa2.svg" alt="Logotipo das Criaturas Fofas e Fedorentas do Abismo" width="100" height="100">
                     </a>
                     <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
@@ -29,9 +29,9 @@
                                     História
                                 </a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="../paginas/historia_geral.php">História Geral</a></li>
-                                    <li><a class="dropdown-item" href="../paginas/capela.php">Capela Santo Antônio</a></li>
-                                    <li><a class="dropdown-item" href="../paginas/brasital.php">Brasital</a></li>
+                                    <li><a class="dropdown-item" href="paginas/historia_geral.php">História Geral</a></li>
+                                    <li><a class="dropdown-item" href="paginas/capela.php">Capela Santo Antônio</a></li>
+                                    <li><a class="dropdown-item" href="paginas/brasital.php">Brasital</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item dropdown">
@@ -40,10 +40,10 @@
                                     Turismo
                                 </a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="../paginas/pontosturisticos.php">Pontos Turísticos</a></li>
-                                    <li><a class="dropdown-item" href="../paginas/roteirodovinho.php">Roteiro do Vinho</a></li>
-                                    <li><a class="dropdown-item" href="../paginas/castelo.php">Castelo de São Roque</a></li>
-                                    <li><a class="dropdown-item" href="../paginas/catarina.php">Catarina Outlet</a></li>
+                                    <li><a class="dropdown-item" href="paginas/pontosturisticos.php">Pontos Turísticos</a></li>
+                                    <li><a class="dropdown-item" href="paginas/roteirodovinho.php">Roteiro do Vinho</a></li>
+                                    <li><a class="dropdown-item" href="paginas/castelo.php">Castelo de São Roque</a></li>
+                                    <li><a class="dropdown-item" href="paginas/catarina.php">Catarina Outlet</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item">
@@ -55,10 +55,10 @@
                                     Notícias
                                 </a>
                                 <ul class="dropdown-menu">
-                                    <li><a class="dropdown-item" href="#">Home - Notícias</a></li>
-                                    <li><a class="dropdown-item" href="#">Notícias da Cidade</a></li>
-                                    <li><a class="dropdown-item" href="#">Notícias da Cultura</a></li>
-                                    <li><a class="dropdown-item" href="#">Notícias da Educação</a></li>
+                                    <li><a class="dropdown-item" href="paginas/home_noticias.php">Home - Notícias</a></li>
+                                    <li><a class="dropdown-item" href="paginas/noticias2.php">Notícias da Cidade</a></li>
+                                    <li><a class="dropdown-item" href="paginas/noticias3.php">Notícias da Cultura</a></li>
+                                    <li><a class="dropdown-item" href="paginas/noticias4.php">Notícias da Educação</a></li>
                                 </ul>
                             </li>
                             <li class="nav-item dropdown">
@@ -74,13 +74,13 @@
                                 </ul>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Quem Somos</a>
+                                <a class="nav-link" href="paginas/quem_somos.php">Quem Somos</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Contato</a>
+                                <a class="nav-link" href="paginas/contato.php">Contato</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Termos de Uso</a>
+                                <a class="nav-link" href="paginas/termos_de_uso.php">Termos de Uso</a>
                             </li>
                         </ul>
                     </div>
@@ -92,5 +92,7 @@
         </div>
         </div>
     </header>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-
+C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
 </body>
 </html>
