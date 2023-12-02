@@ -15,7 +15,7 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
             <div class="col-sm-12 col-md-12 col-lg-12">
                 <article>
                     <h1>EM MANUTENÇÃO</h1>
-                    <img src="https://placekitten.com/1300/500" class="img-fluid" alt="Logotipo da empresa de nome Gold">
+                    <img src="../images/servicos.jpg" class="img-fluid" alt="Logotipo da empresa de nome Gold">
                     <p>Devido à escassez de funcionários, a manutencão da página de serviços do Portal de São Roque tem enfrentado desafios. A equipe reduzida busca otimizar recursos, priorizando atualizações essenciais e respondendo a solicitações prioritárias da comunidade.</p>
                     <p>A administração do portal está ciente da situação e procura alternativas para reforçar a equipe e garantir a eficiência na prestação de informações e serviços online.</p>
                 </article>

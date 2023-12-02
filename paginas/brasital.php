@@ -15,9 +15,9 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
     <article>
         <div class="container text-center">
             <div class="col-sm-12 col-md-12 col-lg-12"></div>
-            <h3 class= "h3-historia">CAPELA DE ST. ANTÔNIO</h3>
+            <h3 class= "h3-historia">BRASITAL</h3>
         <section>
-        <img src="https://placekitten.com/994/313" class="img-fluid" alt="Logotipo da empresa de nome Gold">
+        <img src="../images/brasital_1.jpg" class="img-fluid" alt="Logotipo da empresa de nome Gold">
         </section>
         </div>
         <div class="col-sm-12 col-md-12 col-lg-12">
@@ -31,27 +31,27 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
             <div class="row">
                 <div class="col-sm-12 col-md-4 col-lg-4">
                     <section>
-                        <img src="https://placekitten.com/303/313" alt="Imagem Via Placekitten">
+                        <img src="../images/brasital_2.jpg" alt="Imagem Via Placekitten">
                     </section>
                 </div>
                 <div class="col-sm-12 col-md-4 col-lg-4">
                 <section>
-                        <img src="https://placekitten.com/303/313" alt="Imagem Via Placekitten">
+                        <img src="../images/brasital_3.jpg" alt="Imagem Via Placekitten">
                     </section>
                 </div>
                 <div class="col-sm-12 col-md-4 col-lg-4">
                 <section>
-                        <img src="https://placekitten.com/303/313" alt="Imagem Via Placekitten">
+                        <img src="../images/brasital_4.jpg" alt="Imagem Via Placekitten">
                     </section>
                 </div>
             </div>
         </div>
-            <div class="container text-center">
+        <div class="container text-center">
                 <div class="row">
-                <div class="col-md-4 col-lg-4">
+                    <div class="col-md-4 col-lg-4">
                     <section class = top-historia>
                         <figure>
-                        <img src="https://placekitten.com/300/200" class="img-fluid" alt="Logotipo da empresa de nome Gold">
+                        <img src="../images/capela_section.jpg" class="img-fluid" alt="Logotipo da empresa de nome Gold">
                         <a href="../paginas/capela.php"><figcaption>Capela de St. Antônio</figcaption></a>
                         </figure>
                     </div>
@@ -59,7 +59,7 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                 <div class="col-md-4 col-lg-4">
                     <section class = top-historia>
                     <figure>
-                        <img src="https://placekitten.com/300/200" class="img-fluid" alt="Logotipo da empresa de nome Gold">
+                        <img src="../images/historia_section.jpg" class="img-fluid" alt="Logotipo da empresa de nome Gold">
                         <a href="../paginas/historia_geral.php"><figcaption>História Geral</figcaption></a>
                         </figure>
                     </section>
@@ -67,7 +67,7 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                     <div class="col-md-4 col-lg-4">
                     <section class = top-historia>
                     <figure>
-                        <img src="https://placekitten.com/300/200" class="img-fluid" alt="Logotipo da empresa de nome Gold">
+                        <img src="../images/brasital_section.jpg" class="img-fluid" alt="Logotipo da empresa de nome Gold">
                         <a href="../paginas/brasital.php"><figcaption>BRASITAL</figcaption></a>
                         </figure>
                 </section>

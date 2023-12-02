@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Menu no Bootstrap</title>
+    <title>Portal de São Roque: História Geral</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-
 T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <link rel="stylesheet" href="../css/gui.css">
@@ -23,7 +23,7 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                 
                 <div class="col-sm-12 col-md-6 col-lg-6">
                     <section class = "left-historia">
-                        <img src="https://placekitten.com/395/230" class="img-fluid" alt="Logotipo da empresa de nome Gold">
+                        <img src="../images/historia_geral.jpg" class="img-fluid" alt="Logotipo da empresa de nome Gold">
                     </section>
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-6">
@@ -39,7 +39,7 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                     <div class="container text-center">
                     <div class="row-fluid">
                         <br>
-                        <img src="https://placekitten.com/800/200" class="img-fluid" alt="Logotipo da empresa de nome Gold">
+                        <img src="../images/capela_historia.jpg" class="img-fluid" alt="Logotipo da empresa de nome Gold">
                     </div>
                 </div>
                     <p>Em 1764, o local foi designado como freguesia de Santana de Parnaíba antes de se tornar uma vila própria. Somente em 1864 São Roque foi declarado um município. Entre 1872 e 1875, ocorreram eventos significativos na cidade. Entre eles estavam a inauguração da Santa Casa de Misericórdia e a construção da estação da Estrada de Ferro Sorocabana. A chegada de imigrantes italianos no final do século XIX impulsionou a economia da área e impulsionou o crescimento de São Roque.</p>
@@ -49,7 +49,7 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                 <div class="row">
                 <div class="col-md-6 col-lg-6">
                     <aside>
-                    <img src="https://placekitten.com/596/927" class="img-fluid" alt="Logotipo da empresa de nome Gold">
+                    <img src="../images/brasital_5.jpg" class="img-fluid" alt="Logotipo da empresa de nome Gold">
                     </aside>
                 </div>    
 
@@ -67,7 +67,7 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                     <div class="col-md-4 col-lg-4">
                     <section class = top-historia>
                         <figure>
-                        <img src="https://placekitten.com/300/200" class="img-fluid" alt="Logotipo da empresa de nome Gold">
+                        <img src="../images/capela_section.jpg" class="img-fluid" alt="Logotipo da empresa de nome Gold">
                         <a href="../paginas/capela.php"><figcaption>Capela de St. Antônio</figcaption></a>
                         </figure>
                     </div>
@@ -75,7 +75,7 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                 <div class="col-md-4 col-lg-4">
                     <section class = top-historia>
                     <figure>
-                        <img src="https://placekitten.com/300/200" class="img-fluid" alt="Logotipo da empresa de nome Gold">
+                        <img src="../images/historia_section.jpg" class="img-fluid" alt="Logotipo da empresa de nome Gold">
                         <a href="../paginas/historia_geral.php"><figcaption>História Geral</figcaption></a>
                         </figure>
                     </section>
@@ -83,7 +83,7 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                     <div class="col-md-4 col-lg-4">
                     <section class = top-historia>
                     <figure>
-                        <img src="https://placekitten.com/300/200" class="img-fluid" alt="Logotipo da empresa de nome Gold">
+                        <img src="../images/brasital_section.jpg" class="img-fluid" alt="Logotipo da empresa de nome Gold">
                         <a href="../paginas/brasital.php"><figcaption>BRASITAL</figcaption></a>
                         </figure>
                 </section>
