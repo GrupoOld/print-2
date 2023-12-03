@@ -1,7 +1,6 @@
 @charset "UTF-8";
-
 html {
-    background-color: rgb(255, 244, 246);
+    background-color: gray;
 }
 
 body {
@@ -9,88 +8,53 @@ body {
     margin: auto;
 }
 
-header,
-footer {
-    background-color: rgb(172, 6, 48)40, 246, 255;
+header, footer {
+    background-color: azure;        
 }
-
-a {
+a{
     text-decoration: none;
+    color: black;
 }
-
 article {
     margin: auto;
 }
 
-.navbar {
-
-    background-color: rgb(148, 22, 64);
-}
-
-.navbar-nav .nav-link {
-
-
-    color: white;
-}
-
-.navbar-nav .nav-link.active {
-
-
-    color: rgb(245, 245, 63);
-   
-}
-
-.navbar-nav .nav-item.dropdown:hover .nav-link {
-    background-color:rgb(209, 43, 98); 
-}
-
-.navbar-nav .nav-item.dropdown:hover .dropdown-menu .dropdown-item {
-    color: white;
-    
-  
-background-color: rgb(209, 43, 98)
-}
-.navbar-nav .nav-item.dropdown:hover .dropdown-menu .dropdown-item.active {
-    color: yellow; 
-    
-   
-background-color: rgb(148, 22, 64); 
-}
-
-.headerindex {
+header h1{    
     font-size: 4rem;
-    color:rgb(148, 22, 64);
+    color: blueviolet;    
 }
 
 article {
-    background-color: rgb(248, 251, 254);
+    background-color: aliceblue;
 }
 
 article p {
     padding: 0rem 0.5rem;
 }
 
-.form-nome {
-    width: 75%;
+table {
+    border: 2px solid #000; /* Define a cor e a largura da borda */
+    border-collapse: collapse; /* Colapsa as bordas para um visual mais consistente */
+    width: 100%;
+  }
+
+  /* Estilo das células da tabela */
+  th, td {
+    border: 1px solid #000; /* Define a cor e a largura da borda */
+    padding: 8px; /* Adiciona um espaçamento interno às células */
+    text-align: left;
+  }
+
+.h3-link{
+    background-color: #985C9E;
+    max-width: 30%;
+    margin-top: 20px;
 }
 
-.text-telefone {
-    margin-left: 181px;
-}
+.h3-link:hover{background-color: #d18bd7;}
 
-.form-email {
-    width: 25%;
-}
+.form-nome{width: 75%;}
+.form-email{width: 50%;}
+.form-telefone{width: 50%;}
+.text-area{width: 75%;}
 
-.form-telefone {
-    width: 50%;
-}
-
-.text-area {
-    width: 75%;
-}
-footer {
-    background-color: rgb(172, 6, 48);
-    color: white; 
-    padding: 20px 0; 
-}

@@ -7,7 +7,25 @@ body {
     max-width: 980px;
     margin: auto;
 }
+.header_hist {
+    background-color: #990F12;
+    padding: 20px 0;
+  
+}
+.titulo_hist {
 
+    color: black;
+    font-size: 4rem;
+   
+}
+.navbar-primary-hist {
+    background-color: #666315;
+    color: #FFFFFF;
+}
+.navbar2-hist {
+    background-color: #593816;
+    color: #FFFFFF;
+}
 header, footer {
     background-color: azure;        
 }
@@ -35,7 +53,7 @@ article p {
 .h3-historia{
     background-color: #261526;
     color: antiquewhite;
-    margin-top: 15px;
+    margin-top: 20px;
     margin-left: 240px;
     max-width: 50%;
     margin: auto;
@@ -53,3 +71,8 @@ figcaption{
     color: antiquewhite;
 }
 
+@media screen and (max-width: 320px) {
+    figcaption{
+        max-width: 100%;
+    }
+}
