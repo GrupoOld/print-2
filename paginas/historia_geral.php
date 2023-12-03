@@ -11,16 +11,17 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
 </head>
 
 <body>
-    <?php include_once '../includes/inc_header.php'; ?>
-    <article>
+    <header>
+        <?php include_once "../includes/inc_header_hist.php"; ?>
+</header>
     <div class="container">
         <div class="container text-center">
             <div class="col-sm-12 col-md-12 col-lg-12"></div>
             <h3 class= "h3-historia">HISTÓRIA GERAL</h3>
             </div>
-        
+
             <div class="row">
-                
+
                 <div class="col-sm-12 col-md-6 col-lg-6">
                     <section class = "left-historia">
                         <img src="../images/historia_geral.jpg" class="img-fluid" alt="Logotipo da empresa de nome Gold">
@@ -32,6 +33,7 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                     </section>
                     </div>
                     </div>
+                    
                     <div class="col-sm-12 col-md-12 col-lg-12">
                     <article class = "article-historia"> 
                     <p>A princípio, a fazenda trabalhava com mão-de-obra indígena e, mais tarde, escravos negros para cultivar vinhas e campos de trigo. Posteriormente, os imigrantes italianos e portugueses plantaram vinhedos nas encostas das colinas e tornaram São Roque a famosa "Terra do Vinho".</p>
@@ -64,7 +66,7 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                 </div>
             <div class="container text-center">
                 <div class="row">
-                    <div class="col-md-4 col-lg-4">
+                    <div class="col-sm-12 col-md-4 col-lg-4">
                     <section class = top-historia>
                         <figure>
                         <img src="../images/capela_section.jpg" class="img-fluid" alt="Logotipo da empresa de nome Gold">
@@ -72,7 +74,7 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                         </figure>
                     </div>
                     </section>
-                <div class="col-md-4 col-lg-4">
+                <div class="col-sm-12 col-md-4 col-lg-4">
                     <section class = top-historia>
                     <figure>
                         <img src="../images/historia_section.jpg" class="img-fluid" alt="Logotipo da empresa de nome Gold">
@@ -80,7 +82,7 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                         </figure>
                     </section>
                 </div>
-                    <div class="col-md-4 col-lg-4">
+                    <div class="col-sm-12 col-md-4 col-lg-4">
                     <section class = top-historia>
                     <figure>
                         <img src="../images/brasital_section.jpg" class="img-fluid" alt="Logotipo da empresa de nome Gold">

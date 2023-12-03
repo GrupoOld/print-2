@@ -27,21 +27,18 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                             <br>
                             <br>
 
-                        <label for="email">E-mail*:</label>
+                        <label for="email">E-mail*:</label><br>
+                        <input type="email" id="email" name="email" class = "form-email" required ><br>
                         <label class = "text-telefone" for="telefone">Telefone*:</label><br>
+                        <input type="tel" id="telefone" name="telefone" class = "form-telefone" required >
                         
-                            <input type="email" id="email" name="email" class = "form-email" required >
-                            <input type="tel" id="telefone" name="telefone" class = "form-telefone" required >
-                        
+                            <br>
+                            <br>
                             
-
-                            <br>
-                            <br>
-
-                        <label for="cpf">CPF*:</label>
+                        <label for="cpf">CPF*:</label><br>
+                        <input type="text" id="cpf" name="cpf" class = "form-email" required ><br>
                         <label class = "text-data" for="data_nascimento">Data de Nascimento*:</label><br>
-                            <input type="text" id="cpf" name="cpf" class = "form-email" required >
-                            <input type="date" id="data_nascimento" name="data_nascimento" class = "form-telefone" required>
+                        <input type="date" id="data_nascimento" name="data_nascimento" class = "form-telefone" required>
 
                             <br>
 

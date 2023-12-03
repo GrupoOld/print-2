@@ -11,7 +11,9 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
 </head>
 
 <body>
-    <?php include_once '../includes/inc_header.php'; ?>
+<header>
+        <?php include_once "../includes/inc_header_hist.php"; ?>
+</header>
     <article>
         <div class="container text-center">
             <div class="col-sm-12 col-md-12 col-lg-12"></div>
@@ -48,7 +50,7 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
         </div>
         <div class="container text-center">
                 <div class="row">
-                    <div class="col-md-4 col-lg-4">
+                    <div class="col-sm-12 col-md-4 col-lg-4">
                     <section class = top-historia>
                         <figure>
                         <img src="../images/capela_section.jpg" class="img-fluid" alt="Logotipo da empresa de nome Gold">
@@ -56,7 +58,7 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                         </figure>
                     </div>
                     </section>
-                <div class="col-md-4 col-lg-4">
+                <div class="col-sm-12 col-md-4 col-lg-4">
                     <section class = top-historia>
                     <figure>
                         <img src="../images/historia_section.jpg" class="img-fluid" alt="Logotipo da empresa de nome Gold">
@@ -64,7 +66,7 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                         </figure>
                     </section>
                 </div>
-                    <div class="col-md-4 col-lg-4">
+                    <div class="col-sm-12 col-md-4 col-lg-4">
                     <section class = top-historia>
                     <figure>
                         <img src="../images/brasital_section.jpg" class="img-fluid" alt="Logotipo da empresa de nome Gold">
