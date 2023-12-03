@@ -1,6 +1,7 @@
 @charset "UTF-8";
+
 html {
-    background-color: gray;
+    background-color: rgb(255, 244, 246);
 }
 
 body {
@@ -8,29 +9,88 @@ body {
     margin: auto;
 }
 
-header, footer {
-    background-color: azure;        
+header,
+footer {
+    background-color: rgb(172, 6, 48)40, 246, 255;
 }
-a{text-decoration: none;}
+
+a {
+    text-decoration: none;
+}
+
 article {
     margin: auto;
 }
 
-header h1{    
+.navbar {
+
+    background-color: rgb(148, 22, 64);
+}
+
+.navbar-nav .nav-link {
+
+
+    color: white;
+}
+
+.navbar-nav .nav-link.active {
+
+
+    color: rgb(245, 245, 63);
+   
+}
+
+.navbar-nav .nav-item.dropdown:hover .nav-link {
+    background-color:rgb(209, 43, 98); 
+}
+
+.navbar-nav .nav-item.dropdown:hover .dropdown-menu .dropdown-item {
+    color: white;
+    
+  
+background-color: rgb(209, 43, 98)
+}
+.navbar-nav .nav-item.dropdown:hover .dropdown-menu .dropdown-item.active {
+    color: yellow; 
+    
+   
+background-color: rgb(148, 22, 64); 
+}
+
+.headerindex {
     font-size: 4rem;
-    color: blueviolet;    
+    color:rgb(148, 22, 64);
 }
 
 article {
-    background-color: aliceblue;
+    background-color: rgb(248, 251, 254);
 }
 
 article p {
     padding: 0rem 0.5rem;
 }
 
-.form-nome{width: 75%;}
-.text-telefone{margin-left: 181px;}
-.form-email{width: 25%;}
-.form-telefone{width: 50%;}
-.text-area{width: 75%;}
+.form-nome {
+    width: 75%;
+}
+
+.text-telefone {
+    margin-left: 181px;
+}
+
+.form-email {
+    width: 25%;
+}
+
+.form-telefone {
+    width: 50%;
+}
+
+.text-area {
+    width: 75%;
+}
+footer {
+    background-color: rgb(172, 6, 48);
+    color: white; 
+    padding: 20px 0; 
+}
