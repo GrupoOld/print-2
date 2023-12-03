@@ -4,31 +4,30 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Noticias 3</title>
+    <title>Include Footer Index</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-
 T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
-    <link rel="stylesheet" href="..\css\meu.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="../css/meu.css">
+
 </head>
 
 
 <footer class="text-center">
 
-
     <div class="container">
         <div class="row">
 
             <section class="col-1 col-md-1 align-self-start">
-                <h1><a href="www.instagram.com.br"><span class="bi bi-instagram"></span></a></h1>
-            </section>
-            <section class="col-1 col-md-1 align-self-start">
-                <h1><a href="www.youtube.com.br"><span class="bi bi-youtube"></span></a></h1>
+                <h1><a href="www.instagram.com.br"><span class="bi bi-instagram" style="color: red;"></span></a></h1>
             </section>
             <section class="col-1 col-md-1 align-self-star">
-                <h1><a href="www.twitter.com.br"><span class="bi bi-twitter"></span></a></h1>
+                <h1><a href="www.twitter.com.br"><span class="bi bi-twitter" style="color: blue;"></span></a></h1>
             </section>
             <section class="col-1 col-md-1 align-self-start">
-                <h1><a href="www.facebook.com.br"><span class="bi bi-facebook"></span></a></h1>
+                <h1><a href="www.youtube.com.br"><span class="bi bi-youtube" style="color: red;"></span></a></h1>
+            </section>
+            <section class="col-1 col-md-1 align-self-start">
+                <h1><a href="www.facebook.com.br"><span class="bi bi-facebook" style="color: blue;"></span></a></h1>
             </section>
 
             <div class="col-5 nomes">

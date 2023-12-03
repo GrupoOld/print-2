@@ -8,7 +8,7 @@
 <body>
 <header>
         <div class="container text-center">
-            <menu class="navbar navbar-expand-lg" style="background-color: azure;">
+            <menu class="navbar navbar-expand-lg">
                 <div class="container-fluid">
                     <a class="navbar-brand" href="../index.php">
                         <img src="../images/logo_cffa2.svg" alt="Logotipo das Criaturas Fofas e Fedorentas do Abismo" width="100" height="100">
@@ -47,10 +47,10 @@
                                 </ul>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="#">Serviços</a>
+                                <a class="nav-link" href="../paginas/serviços.php">Serviços</a>
                             </li>
                             <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                                <a class="nav-link dropdown-toggle" href="../paginas/home_noticias.php" role="button" data-bs-toggle="dropdown"
                                     aria-expanded="false">
                                     Notícias
                                 </a>
@@ -62,7 +62,7 @@
                                 </ul>
                             </li>
                             <li class="nav-item dropdown">
-                                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
+                                <a class="nav-link dropdown-toggle" href="../paginas/culturaelazer.php" role="button" data-bs-toggle="dropdown"
                                     aria-expanded="false">
                                     Cultura e Lazer
                                 </a>
@@ -85,14 +85,9 @@
                         </ul>
                     </div>
                 </div>
-            </menu>
-            <div class="row">
-                <h1>CONHEÇA SÃO ROQUE</h1>
-            </div>
+            </menu>            
         </div>
         </div>
     </header>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-
-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
 </body>
 </html>
