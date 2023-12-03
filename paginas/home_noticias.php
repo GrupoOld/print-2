@@ -13,8 +13,9 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
 
 
 
-<body>
-    <header>
+<body class="body_not">
+
+    <header class="header_not1">
         <div class="header_not">
             <div class="container text-center">
                 <div class="row">
@@ -29,9 +30,8 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                 </div>
             </div>
             <div class="container text-center">
-                <menu class="navbar navbar-expand-lg navbar-primary">
+                <nav class="navbar navbar-expand-lg navbar-primary">
                     <div class="container-fluid">
-
                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="navbar-toggler-icon"></span>
                         </button>
@@ -98,26 +98,27 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                             </ul>
                         </div>
                     </div>
-                </menu>
+                </nav>
+            </div>
+            <div class="container text-center">
+                <nav class="navbar navbar-expand-lg menu_cl mx-auto">
+                    <div class="container-fluid">
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent2" aria-controls="navbarSupportedContent2" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+
+                    </div>
+                </nav>
             </div>
         </div>
-        <div class="container text-center">
-            <menu class="navbar navbar-expand-lg menu_cl mx-auto">
-                <div class="container-fluid">
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-
-                </div>
-            </menu>
-        </div>
-        </div>
+    </header>
 
 
 
+    <header class="header_not2">
         <div class="headerhomenot">
             <div class="container text-center">
-                <menu class="navbar navbar-expand-lg navbar2">
+                <nav class="navbar navbar-expand-lg navbar2">
                     <div class="container-fluid">
 
                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -125,6 +126,7 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                         </button>
 
                         <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
+
                             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                                 <li class="nav-item">
                                     <a class="nav-link active" aria-current="page" href="home_noticias.php">Home Notícias</a>
@@ -133,111 +135,127 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                                     <a class="nav-link active" aria-current="page" href="noticias2.php">Notícias da Cidade</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link active" aria-current="page" href="noticias3.php">Noticias Cultural</a>
+                                    <a class="nav-link active" aria-current="page" href="noticias3.php">Notícias Culturais</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link active" aria-current="page" href="noticias4.php">Notícias da Educação</a>
                                 </li>
-
                             </ul>
                         </div>
                     </div>
-                </menu>
+                </nav>
             </div>
         </div>
-
     </header>
+
 
     <main>
 
-        <div class="container rigth">
-            <div class="col-sm-12 col-md-12 col-lg-12"></div>
-            <h2><br>Notícias da Cidade</h2><br>
-            <h2><br>Tudo o que você precisa saber</h2><br>
-        </div>
-
-        <div class="container">
-            <div class="row">
-                <img src="../images/not1.svg" class="img-fluid" alt="Imagem de gatinho" width="400" height=>
+        <header class="container">
+            <div class="col-sm-12 col-md-12 col-lg-12">
+                <h2 class="h2_not"><br>Notícias da Cidade</h2><br>
+                <h2 class="h2_not">Tudo o que você precisa saber</h2>
             </div>
-        </div>
+        </header>
 
-        <h4><br>Aqui você acompanha de perto as notícias da nossa cidade.<br></h4>
-        <p> As últimas novidades! Mantenha-se Informado com Nossa Cobertura de Notícias, atualizações de Última Hora e Reportagens Especiais. Fique Conectado com sua cidade"</p>
+        <section class="container">
+            <div class="row">
+                <img src="../images/not1.svg" class="img-fluid" alt="Imagem de gatinho" width="400" height="">
+            </div>
+        </section>
+
+
+        <article class="container" style="color: royalblue;">
+            <h4><br>Aqui você acompanha de perto as notícias da nossa cidade.<br></h4>
+            <p>As últimas novidades! Mantenha-se informado com nossa cobertura de notícias, atualizações de última hora e reportagens especiais. Fique conectado com sua cidade.</p>
+        </article>
 
     </main>
 
-    <section>
+
+    <section class="section_not">
         <div class="container text-center">
             <div class="row">
 
-                <section class="col-6 col-sm-6 col-md-3 col-lg-3">
+                <article class="col-6 col-sm-6 col-md-3 col-lg-3">
                     <img src="../images/notlocomotiva.svg" alt="Imagem da locomotiva que se encontra na estação de São Roque">
-                    <p><a href="../paginas/home_noticias.php">
-                            <h5>Home Notícias</h5>
-                        </a></p>
-                </section>
+                    <div>
+                        <a href="../paginas/home_noticias.php">
+                            <h4 class="h4_not">Home Notícias</h4>
+                        </a>
+                    </div>
+                </article>
 
-                <section class="col-6 col-sm-6 col-md-3 col-lg-3">
+                <article class="col-6 col-sm-6 col-md-3 col-lg-3">
                     <img src="../images/notigreja.svg" alt="Imagem da igreja da matriz vista da praça em um dia ensolarado">
-                    <p><a href="../paginas/noticias2.php">
-                            <h5>Notícias da Cidade</h5>
-                        </a></p>
-                </section>
+                    <div>
+                        <a href="../paginas/noticias2.php">
+                            <h4 class="h4_not">Notícias da Cidade</h4>
+                        </a>
+                    </div>
+                </article>
 
-                <section class="col-6 col-sm-6 col-md-3 col-lg-3">
+                <article class="col-6 col-sm-6 col-md-3 col-lg-3">
                     <img src="../images/notletreiro.svg" alt="Imagem do letreiro com o nome de São Roque na praça da matriz">
-                    <p><a href="../paginas/noticias3.php">
-                            <h5>Notícias da Cultura</h5>
-                        </a></p>
-                </section>
+                    <div>
+                        <a href="../paginas/noticias3.php">
+                            <h4 class="h4_not">Notícias da Cultura</h4>
+                        </a>
+                    </div>
+                </article>
 
-                <section class="col-6 col-sm-6 col-md-3 col-lg-3">
+                <article class="col-6 col-sm-6 col-md-3 col-lg-3">
                     <img src="../images/notsanto1.svg" alt="Imagem do santo padroeiro de São Roque">
-                    <p><a href="../paginas/noticias4.php">
-                            <h5>Notícias da Educação</h5>
-                        </a></p>
-                </section>
+                    <div>
+                        <a href="../paginas/noticias4.php">
+                            <h4 class="h4_not">Notícias da Educação</h4>
+                        </a>
+                    </div>
+                </article>
 
             </div>
         </div>
-
     </section>
 
-    <footer class="text-center mx-auto">
+
+
+    <footer class="text-center mx-auto footer_not">
         <div class="container">
             <div class="row">
-
                 <section class="col-1 col-md-1 align-self-start">
-                    <h1><a href="https://www.instagram.com.br" target="_blank"><span class="bi bi-instagram" style="color: black;"></span></a></h1>
-                </section>
-                <section class="col-1 col-md-1 align-self-star">
-                    <h1><a href="https://www.twitter.com.br" target="_blank"><span class="bi bi-twitter" style="color: blue;"></span></a></h1>
+                    <a href="https://www.instagram.com.br" target="_blank">
+                        <span class="bi bi-instagram" style="color: black;"></span>
+                    </a>
                 </section>
                 <section class="col-1 col-md-1 align-self-start">
-                    <h1><a href="https://www.youtube.com.br" target="_blank"><span class="bi bi-youtube" style="color: red;"></span></a></h1>>
+                    <a href="https://www.twitter.com.br" target="_blank">
+                        <span class="bi bi-twitter" style="color: blue;"></span>
+                    </a>
                 </section>
                 <section class="col-1 col-md-1 align-self-start">
-                    <h1><a href="https://www.facebook.com.br" target="_blank"><span class="bi bi-facebook" style="color: blue;"></span></a></h1>
+                    <a href="https://www.youtube.com.br" target="_blank">
+                        <span class="bi bi-youtube" style="color: red;"></span>
+                    </a>
                 </section>
-
+                <section class="col-1 col-md-1 align-self-start">
+                    <a href="https://www.facebook.com.br" target="_blank">
+                        <span class="bi bi-facebook" style="color: blue;"></span>
+                    </a>
+                </section>
                 <div class="col-5 nomes">
                     <small>Todos Direitos Reservados:</small>
-                    <br><small>Gleiton Correia Fernandes - RA: 2650832313036 </small>
-                    <br><small>Guilherme Filipini - RA: 2650832313008 -</small>
-                    <br><small>Joel Teixeira Jr - RA: 2650832313001 </small>
+                    <br><small>Gleiton Correia Fernandes - RA: 2650832313036</small>
+                    <br><small>Guilherme Filipini - RA: 2650832313008</small>
+                    <br><small>Joel Teixeira Jr - RA: 2650832313001</small>
                     <br><small>Lucia Midori Nishimori - RA: 2650832313035</small>
                 </div>
-
-
                 <div class="col-3 logof">
-                    <a class="navbar-brand" href="../paginas/index.php">
+                    <a class="navbar-brand" href="../paginas/home_noticias.php">
                         <img src="../images/logo_cffa2.svg" alt="Logo GOLD" width="100" height="100">
                     </a>
                 </div>
             </div>
         </div>
-
     </footer>
 
 </body>

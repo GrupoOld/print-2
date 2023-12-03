@@ -13,9 +13,10 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
 
 
 
-<body>
 
-    <header>
+<body class="body_not">
+
+    <header class="header_not1">
         <div class="header_not">
             <div class="container text-center">
                 <div class="row">
@@ -30,9 +31,8 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                 </div>
             </div>
             <div class="container text-center">
-                <menu class="navbar navbar-expand-lg navbar-primary">
+                <nav class="navbar navbar-expand-lg navbar-primary">
                     <div class="container-fluid">
-
                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                             <span class="navbar-toggler-icon"></span>
                         </button>
@@ -99,26 +99,27 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                             </ul>
                         </div>
                     </div>
-                </menu>
+                </nav>
+            </div>
+            <div class="container text-center">
+                <nav class="navbar navbar-expand-lg menu_cl mx-auto">
+                    <div class="container-fluid">
+                        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent2" aria-controls="navbarSupportedContent2" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+
+                    </div>
+                </nav>
             </div>
         </div>
-        <div class="container text-center">
-            <menu class="navbar navbar-expand-lg menu_cl mx-auto">
-                <div class="container-fluid">
-                    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                        <span class="navbar-toggler-icon"></span>
-                    </button>
-
-                </div>
-            </menu>
-        </div>
-        </div>
+    </header>
 
 
 
+    <header class="header_not2">
         <div class="headerhomenot">
             <div class="container text-center">
-                <menu class="navbar navbar-expand-lg navbar2">
+                <nav class="navbar navbar-expand-lg navbar2">
                     <div class="container-fluid">
 
                         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -126,6 +127,7 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                         </button>
 
                         <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
+
                             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                                 <li class="nav-item">
                                     <a class="nav-link active" aria-current="page" href="home_noticias.php">Home Notícias</a>
@@ -134,27 +136,23 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                                     <a class="nav-link active" aria-current="page" href="noticias2.php">Notícias da Cidade</a>
                                 </li>
                                 <li class="nav-item">
-                                    <a class="nav-link active" aria-current="page" href="noticias3.php">Noticias Cultural</a>
+                                    <a class="nav-link active" aria-current="page" href="noticias3.php">Notícias Culturais</a>
                                 </li>
                                 <li class="nav-item">
                                     <a class="nav-link active" aria-current="page" href="noticias4.php">Notícias da Educação</a>
                                 </li>
-
                             </ul>
                         </div>
                     </div>
-                </menu>
+                </nav>
             </div>
         </div>
-
     </header>
-
-
     <main>
 
         <div class="container rigth">
             <div class="col-sm-12 col-md-12 col-lg-12"></div>
-            <h1><br>Notícias de São Roque</h1><br>
+            <h2 class="h2_not">Notícias de São Roque</h2><br>
 
         </div>
         <div class="container">
@@ -170,8 +168,8 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-6">
                     <img src="../images/notigreja2.svg" class="img-fluid" alt="Imagem da igreja da matriz">
-                    <p><b>Promoção "Meu Sonho de Natal"</b>
-                        A promoção começa no dia 1º de dezembro, saiba como participar.<br>
+                    <p><b>Promoção "Meu Sonho de Natal"</b></p>
+                    <p>A promoção começa no dia 1º de dezembro, saiba como participar.<br>
                         No cenário comercial de São Roque, você terá a chance de concorrer a R$ 50 mil em vales-compra emocionantes.
 
                         A Associação Comercial de São Roque preparou surpresas empolgantes para os membros participantes e os consumidores durante a promoção "Meu Sonho de Natal".
@@ -187,22 +185,23 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                 </div>
                 <div class="col-sm-12 col-md-6 col-lg-6">
                     <img src="../images/notpat.svg" class="img-fluid" alt="Imagem do PAT São Roque">
-                    <b>
-                        <p>PAT São Roque traz novas vagas de emprego, confira!
-                    </b><br>
-                    A Prefeitura de São Roque está anunciando as oportunidades de emprego disponíveis no Posto de Atendimento ao Trabalhador (PAT). São mais de 80 vagas, com ênfase nas novas oportunidades nas áreas de Auxiliar de Produção, Gerente Comercial, Vendedor, entre outras.
 
-                    Os interessados devem obter a carta de encaminhamento online, por meio do site Portal Emprega Brasil ou do aplicativo SINE FÁCIL, e comparecer à entrevista portando currículo atualizado, carta de encaminhamento e documentos pessoais (RG, CPF e Carteira de Trabalho).
+                    <p>PAT São Roque traz novas vagas de emprego, confira!
+                    </p><br>
+                    <p>
+                        A Prefeitura de São Roque está anunciando as oportunidades de emprego disponíveis no Posto de Atendimento ao Trabalhador (PAT). São mais de 80 vagas, com ênfase nas novas oportunidades nas áreas de Auxiliar de Produção, Gerente Comercial, Vendedor, entre outras.
 
-                    A carta de encaminhamento também pode ser retirada diretamente no PAT São Roque, mediante agendamento que pode ser feito pelos Serviços Online.
+                        Os interessados devem obter a carta de encaminhamento online, por meio do site Portal Emprega Brasil ou do aplicativo SINE FÁCIL, e comparecer à entrevista portando currículo atualizado, carta de encaminhamento e documentos pessoais (RG, CPF e Carteira de Trabalho).
 
-                    As vagas são atualizadas semanalmente e estão sujeitas a alterações sem aviso prévio. Para obter mais informações, entre em contato com o PAT pelo telefone 4784-2998 ou pelo WhatsApp 94502-5774.
+                        A carta de encaminhamento também pode ser retirada diretamente no PAT São Roque, mediante agendamento que pode ser feito pelos Serviços Online.
+
+                        As vagas são atualizadas semanalmente e estão sujeitas a alterações sem aviso prévio. Para obter mais informações, entre em contato com o PAT pelo telefone 4784-2998 ou pelo WhatsApp 94502-5774.
                     </p><br>
                 </div>
                 <div class="col-md-6 col-lg-6">
                     <img src="../images/notiprefeitura.svg" class="img-fluid" alt="imagem da entrada da prefeitura de São Roque">
-                    <p><b>Está aberta as inscrições para Conselheiro Municipal da Juventude</b><br>
-                        Já está aberta as inscrições para eleição do CMDJ - Conselho Municipal dos Direitos da Juventude, os interessados devem se inscrever até o dia 06 de dezembro através do
+                    <p><b>Está aberta as inscrições para Conselheiro Municipal da Juventude</b><br></p>
+                    <p> Já está aberta as inscrições para eleição do CMDJ - Conselho Municipal dos Direitos da Juventude, os interessados devem se inscrever até o dia 06 de dezembro através do
                         <link rel="https://www.saoroque.sp.gov.br/portal/servicos/1234/conselho-municipal-da-juventude/" href="Link"> ou através de forma presencial no PAT São Roque, os candidatos devem ter entre 15 a 19 anos para concorrer uma das oito vagas para as seguintes representações:<br>
                         I - 1 (um) representante da comunidade Negra;<br>
                         II - 1 (um) representante da luta por igualdade de gênero;<br>
@@ -221,80 +220,92 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
 
 
 
-    <section>
+
+    <section class="section_not">
         <div class="container text-center">
             <div class="row">
 
-                <section class="col-6 col-sm-6 col-md-3 col-lg-3">
+                <article class="col-6 col-sm-6 col-md-3 col-lg-3">
                     <img src="../images/notlocomotiva.svg" alt="Imagem da locomotiva que se encontra na estação de São Roque">
-                    <p><a href="../paginas/home_noticias.php">
-                            <h5>Home Notícias</h5>
-                        </a></p>
-                </section>
+                    <div>
+                        <a href="../paginas/home_noticias.php">
+                            <h4 class="h4_not">Home Notícias</h4>
+                        </a>
+                    </div>
+                </article>
 
-                <section class="col-6 col-sm-6 col-md-3 col-lg-3">
+                <article class="col-6 col-sm-6 col-md-3 col-lg-3">
                     <img src="../images/notigreja.svg" alt="Imagem da igreja da matriz vista da praça em um dia ensolarado">
-                    <p><a href="../paginas/noticias2.php">
-                            <h5>Notícias da Cidade</h5>
-                        </a></p>
-                </section>
+                    <div>
+                        <a href="../paginas/noticias2.php">
+                            <h4 class="h4_not">Notícias da Cidade</h4>
+                        </a>
+                    </div>
+                </article>
 
-                <section class="col-6 col-sm-6 col-md-3 col-lg-3">
-                    <img src="../images/notletreiro.svg" alt="Notícias da Educação">
-                    <p><a href="../paginas/noticias3.php">
-                            <h5>Notícias da Cultura</h5>
-                        </a></p>
-                </section>
+                <article class="col-6 col-sm-6 col-md-3 col-lg-3">
+                    <img src="../images/notletreiro.svg" alt="Imagem do letreiro com o nome de São Roque na praça da matriz">
+                    <div>
+                        <a href="../paginas/noticias3.php">
+                            <h4 class="h4_not">Notícias da Cultura</h4>
+                        </a>
+                    </div>
+                </article>
 
-                <section class="col-6 col-sm-6 col-md-3 col-lg-3">
+                <article class="col-6 col-sm-6 col-md-3 col-lg-3">
                     <img src="../images/notsanto1.svg" alt="Imagem do santo padroeiro de São Roque">
-                    <p><a href="../paginas/noticias4.php">
-                            <h5>Notícias da Educação</h5>
-                        </a></p>
-                </section>
+                    <div>
+                        <a href="../paginas/noticias4.php">
+                            <h4 class="h4_not">Notícias da Educação</h4>
+                        </a>
+                    </div>
+                </article>
 
             </div>
         </div>
-
     </section>
 
-    <footer class="text-center mx-auto">
 
 
+    <footer class="text-center mx-auto footer_not">
         <div class="container">
             <div class="row">
-
                 <section class="col-1 col-md-1 align-self-start">
-                    <h1><a href="https://www.instagram.com.br" target="_blank"><span class="bi bi-instagram" style="color: black;"></span></a></h1>
-                </section>
-                <section class="col-1 col-md-1 align-self-star">
-                    <h1><a href="https://www.twitter.com.br" target="_blank"><span class="bi bi-twitter" style="color: blue;"></span></a></h1>
+                    <a href="https://www.instagram.com.br" target="_blank">
+                        <span class="bi bi-instagram" style="color: black;"></span>
+                    </a>
                 </section>
                 <section class="col-1 col-md-1 align-self-start">
-                    <h1><a href="https://www.youtube.com.br" target="_blank"><span class="bi bi-youtube" style="color: red;"></span></a></h1>>
+                    <a href="https://www.twitter.com.br" target="_blank">
+                        <span class="bi bi-twitter" style="color: blue;"></span>
+                    </a>
                 </section>
                 <section class="col-1 col-md-1 align-self-start">
-                    <h1><a href="https://www.facebook.com.br" target="_blank"><span class="bi bi-facebook" style="color: blue;"></span></a></h1>
+                    <a href="https://www.youtube.com.br" target="_blank">
+                        <span class="bi bi-youtube" style="color: red;"></span>
+                    </a>
                 </section>
-
+                <section class="col-1 col-md-1 align-self-start">
+                    <a href="https://www.facebook.com.br" target="_blank">
+                        <span class="bi bi-facebook" style="color: blue;"></span>
+                    </a>
+                </section>
                 <div class="col-5 nomes">
                     <small>Todos Direitos Reservados:</small>
-                    <br><small>Gleiton Correia Fernandes - RA: 2650832313036 </small>
-                    <br><small>Guilherme Filipini - RA: 2650832313008 -</small>
-                    <br><small>Joel Teixeira Jr - RA: 2650832313001 </small>
+                    <br><small>Gleiton Correia Fernandes - RA: 2650832313036</small>
+                    <br><small>Guilherme Filipini - RA: 2650832313008</small>
+                    <br><small>Joel Teixeira Jr - RA: 2650832313001</small>
                     <br><small>Lucia Midori Nishimori - RA: 2650832313035</small>
                 </div>
-
-
                 <div class="col-3 logof">
-                    <a class="navbar-brand" href="../paginas/index.php">
+                    <a class="navbar-brand" href="../paginas/home_noticias.php">
                         <img src="../images/logo_cffa2.svg" alt="Logo GOLD" width="100" height="100">
                     </a>
                 </div>
             </div>
         </div>
-
     </footer>
+
 
 
 </body>
