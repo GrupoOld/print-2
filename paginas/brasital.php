@@ -5,8 +5,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Menu no Bootstrap</title>
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-
-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
     <link rel="stylesheet" href="../css/gui.css">
 </head>
 
@@ -54,15 +53,16 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                     <section class = top-historia>
                         <figure>
                         <img src="../images/capela_section.jpg" class="img-fluid" alt="Logotipo da empresa de nome Gold">
-                        <a href="../paginas/capela.php"><figcaption>Capela de St. Antônio</figcaption></a>
+                        <figcaption><a href="../paginas/capela.php">Capela de St. Antônio</a></figcaption>
                         </figure>
-                    </div>
                     </section>
+                    </div>
+                    
                 <div class="col-sm-12 col-md-4 col-lg-4">
                     <section class = top-historia>
                     <figure>
                         <img src="../images/historia_section.jpg" class="img-fluid" alt="Logotipo da empresa de nome Gold">
-                        <a href="../paginas/historia_geral.php"><figcaption>História Geral</figcaption></a>
+                        <figcaption><a href="../paginas/historia_geral.php">História Geral</a></figcaption>
                         </figure>
                     </section>
                 </div>
@@ -70,7 +70,7 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
                     <section class = top-historia>
                     <figure>
                         <img src="../images/brasital_section.jpg" class="img-fluid" alt="Logotipo da empresa de nome Gold">
-                        <a href="../paginas/brasital.php"><figcaption>BRASITAL</figcaption></a>
+                        <figcaption><a href="../paginas/brasital.php">BRASITAL</a></figcaption>
                         </figure>
                 </section>
             </div>
@@ -79,8 +79,7 @@ T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="a
     </article>
     <?php include_once '../includes/inc_footer.php'; ?>
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-
-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script>
 </body>
 
 </html>
