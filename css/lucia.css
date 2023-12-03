@@ -1,47 +1,29 @@
-@charset "UTF-8";
-html {
-    background-color: gray;
-}
 
-body {
-    max-width: 980px;
-    margin: auto;
-}
-
-header, footer {
-    background-color: azure;        
-}
-
-article {
-    margin: auto;
-}
-
-header h1{    
+.titulo_tur{
     font-size: 4rem;
-    color: blueviolet;    
-}
-
-article {
-    background-color: aliceblue;
-}
-
-article p {
-    padding: 0rem 0.5rem;
-}
-.titulo-lucia{
-    font-size: 4rem;
-    color: rgb(204, 65, 149);    
-}
-
-.fundo-lucia{
-    background-color: rgb(167, 87, 141);
-}
-.center-lucia{
-    color: rgb(255, 255, 255);
+    color: white;  
     
 }
-.nav-lucia{
-    color: rgb(150, 134, 148);
-    
+.paragrafo_tur{
+    color:black;
+    margin-left: 50px;
+    margin-right: 50px;
+ }
+
+.menu_tur a{
+    text-decoration: none;
+    color: white;
+    padding: 5px 65px;
+    margin: 0px 0px 0px 120px;
+    background-color: #985C9E;
+}
+.img_tur{
+    margin-top: 40px;
+}
+.img_tur1{
+    margin-top: 20px;
+}
+.cor_tur{
+    background-color:  #EAB4F0 ;
 }
 
